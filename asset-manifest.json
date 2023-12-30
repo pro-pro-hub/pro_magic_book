@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48ed98c6.css",
+    "main.js": "/static/js/main.9534212a.js",
+    "static/media/hell-background.jpg": "/static/media/hell-background.6c1bdc3d31a0b720fa4e.jpg",
+    "static/media/demon-roar.mp3": "/static/media/demon-roar.152e0ef81edf5f9986b8.mp3",
+    "static/media/crystal.mp3": "/static/media/crystal.10f8d10d069c7facf42a.mp3",
+    "static/media/blue-flames.webp": "/static/media/blue-flames.3176588c24099dac8b7e.webp",
+    "static/media/click.mp3": "/static/media/click.68d033950ba0534a9581.mp3",
+    "index.html": "/index.html",
+    "main.48ed98c6.css.map": "/static/css/main.48ed98c6.css.map",
+    "main.9534212a.js.map": "/static/js/main.9534212a.js.map"
+  },
+  "entrypoints": ["static/css/main.48ed98c6.css", "static/js/main.9534212a.js"]
+}
